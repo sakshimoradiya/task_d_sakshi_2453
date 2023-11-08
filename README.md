@@ -2,15 +2,21 @@
 
 A new Flutter project.
 
-## Getting Started
+***Task D: Create e-commerce app of 5 pages which fetches the data from any API and stored the cart data and favourite project data in Cloud Firestore.***
 
-This project is a starting point for a Flutter application.
+Marking criteria’s :
 
-A few resources to get you started if this is your first Flutter project:
+App features: [ marks: 30 / 50 ]
+- App must satisfy the given criterias with all working functionalities.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+UI/UX and color pattern: [ marks: 15 / 50 ]
+- App must contain eye catching UI and easy to use and understand UX in all pages.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Submission: [ marks: 5 / 50 ]
+- Submission should be done in proper github private repository and detailed README.md file.
+
+
+
+![WhatsApp Image 2023-11-08 at 11 16 36_405c00be](https://github.com/sakshimoradiya/task_d_sakshi_2453/assets/131337231/9258d501-4f88-452d-af67-78931384fb60)
+![WhatsApp Image 2023-11-08 at 11 16 37_f2454b59](https://github.com/sakshimoradiya/task_d_sakshi_2453/assets/131337231/fed6793d-8568-4c77-ac4f-7d7308b1293a)
+![WhatsApp Image 2023-11-08 at 11 16 37_e91b5d88](https://github.com/sakshimoradiya/task_d_sakshi_2453/assets/131337231/51a6724a-544a-43fb-972e-b9d23126d855)
